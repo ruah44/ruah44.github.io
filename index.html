@@ -1,0 +1,34 @@
+---
+layout: default
+title: Ruah44
+---
+  <h1>Lonely-lonely~lonely.</h1>
+  <ul class="posts">
+    <li><span>11 Mar 2021</span> &raquo; <a href="https://ruah44.github.io/2021/03/11/reading_list.html">Recent reading list</a></li>
+    <li><span>11 Mar 2021</span> &raquo; <a href="https://ruah44.github.io/2021/03/11/watchlist.html">Recent watchlist</a></li>
+    <li><span>11 Mar 2021</span> &raquo; <a href="https://ruah44.github.io/2021/03/11/playlist.html">Recent playlist</a></li>
+  </ul>
+
+<div id="home">
+  <h1>All blog Posts</h1>
+  <ul class="posts">
+    {% for post in site.posts %}
+      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+
+  <h1>To-research</h1>
+  <ul class="posts">
+    <li><span>08 Mar 2021</span> &raquo; <a href="https://smcnetwork.org/#resources">Acadamic direction</a></li>
+    <li><span>08 Mar 2021</span> &raquo; <a href="https://en.wikipedia.org/wiki/W._H._Auden">Language learning</a></li>  
+  </ul>
+  
+  <h1>Some links</h1>
+  <ul class="posts">
+    <li><span>08 Mar 2021</span> &raquo; <a href="https://www.douban.com/group/705363/">Group: Women in Academia</a></li>
+    <li><span>08 Mar 2021</span> &raquo; <a href="https://ludwig.guru/">Ludwig-En_usage</a></li>
+    <li><span>08 Mar 2021</span> &raquo; <a href="http://www.phrasebank.manchester.ac.uk/">Academic Phrasebank</a></li>  
+    <li><span>08 Mar 2021</span> &raquo; <a href="https://space.bilibili.com/353238687/">Video: Young people's concert</a></li>
+    <li><span>08 Mar 2021</span> &raquo; <a href="https://www.youtube.com/playlist?list=PLCrgFeG6pwQmdbB6l3ehC8oBBZbatVoz3">Video: Bela Audio Programming</a></li>
+  </ul>
+</div>
