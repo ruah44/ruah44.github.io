@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 只是一个开头的想法：他、你、我
+title: 只是一个开头：他、你、我
 ---
 
 {{ page.title }}
