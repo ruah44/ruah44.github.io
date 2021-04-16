@@ -1,6 +1,6 @@
 ---
 layout: post
-title: (2021.3-?) Reading
+title: Reading
 ---
 
 {{ page.title }}
