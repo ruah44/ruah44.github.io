@@ -1,6 +1,6 @@
 ---
 layout: post
-title: (2021.3-?) Watching
+title: Watching
 ---
 
 {{ page.title }}
@@ -32,7 +32,9 @@ PS：四三对妻儿真的很不好。
 
 “阿政，我们必须抛弃日本泳法了。”
 
-![保重](../images/idaten21ai.png)
+<a href="爱">
+  <img src="/images/idaten21ai.png">
+</a>  
 
 “女子田径，还没成为奥运会的正式项目。将来，也可能永远都没能成为。但是我不想放弃。”
 
@@ -56,7 +58,9 @@ Ep30：我也很不喜欢河童先生对数字的一昧追求（哪怕以给日�
 
 ## **我家的故事 第九回**（2020）：
 
-![我家的故事第九回](../images/bao.png)
+<a href="bao">
+  <img src="/images/bao.png">
+</a>  
 
 摔跤手的老人院见面会。我喜欢看到人们默许并配合着完成同一件荒唐无稽的事情，我也想共享一份属于人的真诚新鲜和力量啊。抱起的时候被神奇地感动到了。
 
@@ -68,11 +72,9 @@ Ep30：我也很不喜欢河童先生对数字的一昧追求（哪怕以给日�
 
 [冈田准一](https://ja.wikipedia.org/wiki/%E5%B2%A1%E7%94%B0%E5%87%86%E4%B8%80)真的好好看好好看好好看……不断进行着暂停凝视痴笑缓和然后继续播放的循环……又是宫九+落语的组合。这次我要省着点看！！但是看得好开心。
 
-![kirakiraeyes](../images/kirakiraeyes.png)
-
-![longer](../images/longer.gif)
-
-
+<a href="kirakiraeyes">
+  <img src="/images/kirakiraeyes.png">
+</a>  
 
 ## 天国与地狱（2021）
 
@@ -145,3 +147,17 @@ Jean Anouilh (French), John Millington Synge (Irish playwright, poet, writer, co
 很显然从头到尾完全不喜爱她，但仅此而已，因为并不想像她那样轻易对人进行刻薄的负面评判。最后的和解，是仅限于她的失败，不是人类的失败。最后一集突然也自然地引出基督教。
 
 ## [Cat.Shit.One](https://www.bilibili.com/video/BV1cx411G7dG)
+
+据说是系列作品。usagi = USA
+
+## [Epic]俄罗斯全史
+
+为系统看俄国文学史和名著做储备。接着看罗曼诺夫王朝相关。
+
+## 完全掌握动词变化 22集全（出口老师）
+
+因为真的很不错所以记一笔，主要是分类、变形、复数组合这前三篇。
+
+## 罗曼诺夫王朝
+
+star media纪录片，新沙皇登基用的沙皇洗白系列。
